@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.background-color{
+    background-image: url("./photo-1520209759809-a9bcb6cb3241.jpg");
+    width: 100%;
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navber{
+    text-align: center;
+    background-color: blueviolet;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+}
+.navber a{
+    color: white;
+    font-size: 20px;
+    padding: 6px 10px;
+    text-decoration: none;
+    border: 1px solid #fff;
+}
+.navber a:hover{
+    background-color: rgb(200, 100, 250);
+}
+.addClass{
+    background-color: rgb(208, 161, 231);
+    
+}
